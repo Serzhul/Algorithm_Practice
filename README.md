@@ -1,2 +1,2 @@
-# Algorithm_Practice
-for Algorithm Practice with Javascript
+# Algorithm_Practice (on leetCode)
+for Algorithm Practice with Javascript 
